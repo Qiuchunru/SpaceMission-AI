@@ -1,1 +1,17 @@
 
+{
+  "name": "spacemission-ai-frontend",
+  "version": "1.0.0",
+  "description": "Frontend interface for SpaceMission AI assistant",
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "vite": "^5.4.0"
+  },
+  "devDependencies": {}
+}
