@@ -1,1 +1,4 @@
 
+# SpaceMission AI dependencies
+
+-r backend/requirements.txt
